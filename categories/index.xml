@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Carl Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wangzhiyuan96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,36 +14,9 @@
     <item>
       <title>Tech</title>
       <link>https://wangzhiyuan96.github.io/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wangzhiyuan96.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips</title>
-      <link>https://wangzhiyuan96.github.io/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://wangzhiyuan96.github.io/categories/tips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>https://wangzhiyuan96.github.io/categories/note/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://wangzhiyuan96.github.io/categories/note/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://wangzhiyuan96.github.io/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://wangzhiyuan96.github.io/categories/life/</guid>
       <description></description>
     </item>
     
