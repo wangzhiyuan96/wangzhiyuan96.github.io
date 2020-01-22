@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://wangzhiyuan96.github.io/tags/istio/</loc>
-    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wangzhiyuan96.github.io/tags/</loc>
-    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wangzhiyuan96.github.io/2017/11/08/istio-canary-release/</loc>
-    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wangzhiyuan96.github.io/search/placeholder/</loc>
     <priority>0</priority>
   </url>
@@ -64,6 +49,10 @@
   
   <url>
     <loc>https://wangzhiyuan96.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangzhiyuan96.github.io/tags/</loc>
   </url>
   
   <url>
